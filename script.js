@@ -5,5 +5,5 @@ var w = document.documentElement.clientWidth;
 var h = document.documentElement.clientHeight;
         
 // put the result into a h1 tag
- document.getElementById('sizeInfo').innerHTML = "<h1>Width: " + w + "  Height: " + h + "</h1>";
+ document.getElementById('sizeInfo').innerHTML = "<h1>Width: " + w + " and  Height: " + h + "</h1>";
 }
